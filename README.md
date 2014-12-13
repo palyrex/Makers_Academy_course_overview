@@ -169,22 +169,6 @@ Week 5 (JavaScript Core)
 
 ####Projects:
 
-  - [ ] [Fizzbuzz io](https://github.com/makersacademy/course/blob/master/pills/IoPill.md)  (Weekday Project)
-
-        - Learn how to use the programming language io by doing a simple kata
-
-  - [ ] [Javabuzz](https://github.com/makersacademy/course/blob/master/pills/javascript%26JasminePill.md)  (Weekday Project)
-
-        - Learn how to use the programming language javascript by doing a simple kata
-
-  - [ ] [Airport](https://github.com/makersacademy/airport_challenge) (Weekday Project)
-
-        - Use javascript to create an OOP program
-
-  - [ ] [FAAST JS](https://github.com/makersacademy/faast-challenge) (Weekday Project)
-
-        - Another OOP program to recreate a previous project in Ruby
-
   - [ ] [Rock Paper Scissors JS](https://github.com/makersacademy/course/blob/master/rock_paper_scissors.md) (Weekday Project)
 
         - Re-creating RPS in javascript language
@@ -206,16 +190,13 @@ Week 6 (JavaScript Front End)
   - [APIs](http://en.wikipedia.org/wiki/Application_programming_interface)
   - [Sinatra](http://www.sinatrarb.com/)
   - [JQuery](http://jquery.com/)
+  - [Angular](https://angularjs.org/)
 
 ####Projects:
 
-  - [ ] [Thermostat](https://github.com/makersacademy/course/blob/master/challenges/thermostat.md) (Weekday Project)
+  - [ ] [Github Report](https://github.com/makersacademy/course/blob/master/github_report.md) (Weekday Project)
 
-        - Create a program to show current temperature and local weather report in a static location (London).
-
-  - [ ] [Github Profiles API](https://github.com/makersacademy/profiles_challenge) (Weekday Project)
-
-        - Create a simple page to show the use of Github user profiles through the developer API
+        - Create a program to show progress through Makers course using info from [Github API](https://developer.github.com/v3/).
 
   - [ ] [Chitter Frontman Badge](https://github.com/makersacademy/frontman-challenge) (Friday Challenge)
 
