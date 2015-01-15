@@ -203,3 +203,94 @@ Week 6 (JavaScript Front End)
         - A Twitter clone using Javascript and your own API to display the tweets
 
 ![Frontman](images/badges/Frontman_thumb.jpg)
+
+Week 7 (Node)
+-------
+
+####Technologies Used:
+  - [Javascript](http://www.w3schools.com/js/)
+  - [JQuery](http://jquery.com/)
+  - [nodejs](http://nodejs.org/)
+  - [Socket.io](http://socket.io/)
+  - [CoffeeScript](http://coffeescript.org/)
+  - [Mocha](https://github.com/mochajs/mocha)
+
+
+####Projects:
+
+  - [ ] [Chatter](https://github.com/makersacademy/course/blob/master/pills/node.md) (Weekday Project)
+
+        - A simple server using sockets to make a chat program
+
+  - [ ] [CoffeeBuzz](#) (Weekday Project)
+
+        - A simple kata to understand the CoffeeScript language
+        
+  - [ ] [Ruby Refresher](https://github.com/makersacademy/ruby-refresher)
+        - A brush up on your ruby skills
+
+![Sentry](images/badges/Sentry_thumb.jpg)
+
+Week 8 (Rails)
+--------
+
+####Technologies Used:
+  - [Ruby](https://www.ruby-lang.org)
+  - [Rails](http://rubyonrails.org/)
+  - [Javascript](http://www.w3schools.com/js/)
+  - [JQuery](http://jquery.com/)
+  - [HTML](http://www.w3schools.com/html/)
+  - [CSS](http://www.w3schools.com/css/)
+  - [Devise](https://github.com/plataformatec/devise)
+  - [Omniauth](https://github.com/intridea/omniauth)
+
+####Projects:
+
+  - [ ] [Yelp Clone](https://github.com/makersacademy/course/blob/master/yelp.md) (Weekday Project)
+
+        - A project to understand the fundamentals of Ruby on Rails
+
+  - [ ] [TIMstagram (Machinist Badge)](https://github.com/makersacademy/instagram-challenge) (Friday Challenge)
+
+        - A weekend project to re-create Instagram
+
+Week 9 (Makerthon)
+--------
+
+####Technologies Used:
+  - You tell us!
+
+####Projects:
+
+  - [ ] Makerthon
+
+        - Small Team Projects.
+
+Week 10 (Front end and Advanced Rails)
+---------
+
+####Technologies Used:
+  - UX
+  - Google Maps
+  - Responsive Design
+  - Payments
+
+
+
+Week 11 (Final Project)
+---------
+
+####Technologies Used:
+  - You tell us!
+
+####Projects:
+  - You tell us!
+
+Week 12 (Final Project)
+---------
+
+####Technologies Used:
+  - You tell us!
+
+####Projects:
+  - You tell us!
