@@ -270,10 +270,10 @@ Week 10 (Front end and Advanced Rails)
 ---------
 
 ####Technologies Used:
-  - UX
-  - Google Maps
-  - Responsive Design
-  - Payments
+  - [User Experience (UX)](https://github.com/makersacademy/course/blob/master/pills/ux.md)
+  - [Google Maps](https://github.com/makersacademy/course/blob/master/pills/gmaps.md)
+  - [Responsive Design](http://en.wikipedia.org/wiki/Responsive_web_design)
+  - [Payments](https://github.com/makersacademy/course/blob/master/pills/stripe.md)
 
 
 
