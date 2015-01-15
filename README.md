@@ -1,7 +1,7 @@
 Makers Academy Course
 ===================
 
-#####Weekly breakdown of the first 6 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
+#####Weekly breakdown of your experience at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
 
 Please fork this repo to your own Github, and then edit the README to check off the parts of the course you have completed.  If you are unsure about whether you have successfully completed any part of the course, please ask a coach or alumni helper to confirm that you have finished the relevant component.
 
