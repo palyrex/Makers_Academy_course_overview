@@ -16,8 +16,8 @@ Pre-Course
   - [ ] [Transparency, Effort and Compassion](https://github.com/makersacademy/pre_course/blob/master/tec.md)
   - [ ] [Command Line](https://github.com/makersacademy/pre_course/blob/master/command_line.md)
 
-        - Walkthrough
-        - Exercises
+        - [Walkthrough](https://github.com/makersacademy/pre_course/blob/master/pills/command_line.md)
+        - Exercises(https://github.com/makersacademy/pre_course/blob/master/exercises/command_line_exercises.md)
 
   - [ ] [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) (Friday Challenge)
 
@@ -25,11 +25,11 @@ Pre-Course
 
         - Walkthrough
         - Exercises
-  
+
   - [ ] [Octocat Challenge](https://github.com/makersacademy/octocat_challenge) (Friday Challenge)
 
         - Github Practice
-        
+
   - [ ] [Ruby](https://github.com/makersacademy/pre_course/blob/master/ruby.md)
 
         - Exercises from links
@@ -72,7 +72,7 @@ Week 1 (OO Ruby)
         - RSpec - Testing framework
         - Chicago vs London Testing Styles
 
-  - [ ] [FAAST (Architect Badge)](https://github.com/makersacademy/faast-challenge) (Friday Challenge) 
+  - [ ] [FAAST (Architect Badge)](https://github.com/makersacademy/faast-challenge) (Friday Challenge)
 
 ![Architect](images/badges/Architect_thumb.jpg)
 
@@ -225,7 +225,7 @@ Week 7 (Node)
   - [ ] [CoffeeBuzz](#) (Weekday Project)
 
         - A simple kata to understand the CoffeeScript language
-        
+
   - [ ] [Ruby Refresher](https://github.com/makersacademy/ruby-refresher)
         - A brush up on your ruby skills
 
