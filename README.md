@@ -258,13 +258,19 @@ Week 9 (Makerthon)
 --------
 
 ####Technologies Used:
-  - You tell us!
+  - Ruby
+  - Javascript
+  - SVG
+  - Sinatra
+  - Ajax/API
+  - Rspec
 
 ####Projects:
 
-  - [ ] Makerthon
+[**Domination**](https://github.com/palyrex/Domination)
 
-        - Small Team Projects.
+Strategy game like 'Risk' conquering countries 
+
 
 Week 10 (Front end and Advanced Rails)
 ---------
@@ -276,21 +282,22 @@ Week 10 (Front end and Advanced Rails)
   - [Payments](https://github.com/makersacademy/course/blob/master/pills/stripe.md)
 
 
-
-Week 11 (Final Project)
+Week 11-12 (Final Project)
 ---------
-
 ####Technologies Used:
-  - You tell us!
 
-####Projects:
-  - You tell us!
+| Languages | Test suits  | Frameworks   | Database   | Other techs    |   
+| ----------|-------------|--------------|------------|----------------|
+| Ruby      | Cucumber    | Sinatra      | PostrgeSQL | jQuery         |
+| Javascript| Capybara    | Foundation   |            | Google maps API|
+|           |             |              |            | AWS            |
+|           |             |              |            | Heroku         |
 
-Week 12 (Final Project)
----------
 
-####Technologies Used:
-  - You tell us!
 
-####Projects:
-  - You tell us!
+
+####Project:
+[**LookUp**](https://github.com/palyrex/LookUp)
+LookUp is a web-app that guides the user through a number of simple steps to survey a roof that they believe might be a good site for community solar power. Its overall aim is to engage and inspire a wider audience to consider setting up environmentally-friendly community energy projects that take some of the monopoly away from large energy companies.
+
+
